@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hacking.gauravtiple@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Flowers 🌸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
