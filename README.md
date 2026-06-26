@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/GlitchXStar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=7B2FBE&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=It+worked+on+my+machine+%C2%AF%5C_(+%E3%83%84)_%2F%C2%AF;Full-Stack+Dev+%7C+ML+Explorer+%7C+Hackathon+Builder;VIT+Pune+%7C+CSE+%E2%80%9927+%7C+Building+things+that+matter." alt="Tagline SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=7B2FBE&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=It+worked+on+my+machine+%C2%AF%5C_(+%E3%83%84)_%2F%C2%AF;Full-Stack+Dev+%7C+ML+Explorer+%7C+Hackathon+Builder;VIT+Pune+%7C+CSE+%E2%80%9928+%7C+Building+things+that+matter." alt="Tagline SVG" />
   </a>
 </p>
 
@@ -40,12 +40,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **CSE undergrad @ VIT Pune** (Batch of 2027) — second year, deep in the grind
-- 🔭 Currently building **Saarthi** — an app I can't stop thinking about
+- 🎓 **CSE undergrad @ VIT Pune** (Batch of 2028) — second year, deep in the grind
 - 🌱 Learning **Machine Learning, NLP, and how to not break prod**
-- 🏆 Hackathon builder — shipped a production HRMS at **Odoo × VIT Pune 2026**
-- 💬 Ask me about **full-stack dev, Python automation, or why my code only runs locally**
-- ⚡ Fun fact: **Flowers 🌸** (don't ask, just vibe with it)
+- 🏆 Hackathon builder — **5+ National Hackathon Finalist** , shipped a production HRMS at **Odoo × VIT Pune 2026**
+- 💬 Ask me about **full-stack dev, RAG, Langchain , or why my code only runs locally**
+- ⚡ Fun fact: **Flowers 🌸** (don't ask, close ones alr know ツ)
 
 ---
 
@@ -83,17 +82,17 @@
 ### 🏢 EmPay — Smart HRMS
 > Production-grade, multi-company HR platform built for **Odoo × VIT Pune Hackathon 2026**. Shift-based attendance, Indian payroll engine (PF, ESI, PT, Income Tax), PDF payslip generation, PostgreSQL Row-Level Security, Docker deployment. **Live at [odoo.notcaliper.dev](https://odoo.notcaliper.dev)**
 >
-> `React 19` `Node.js` `PostgreSQL` `Docker` `Tailwind CSS`
+> `Full-Stack` `React 19` `Node.js` `PostgreSQL` `Docker` `Tailwind CSS` 
 
 ### 📧 BulkMailer V2 — Anti-Spam Cold Email Engine
 > Standalone Python desktop app for bulk email outreach. Gaussian-distribution delay engine to dodge spam filters, multi-account SMTP round-robin, dynamic personalization from Excel/CSV, compiled to a single `.exe`. Free alternative to Instantly / Lemlist.
 >
-> `Python` `PyQt6` `SQLite` `smtplib` `PyInstaller`
+> `Python Automation` `Python` `PyQt6` `SQLite` `smtplib` `PyInstaller` 
 
 ### 🤖 MedBot RAG — AI Medical Assistant
 > RAG-based medical chatbot that retrieves from a curated knowledge base before answering. Built with LangChain + vector search for grounded, hallucination-resistant responses.
 >
-> `Python` `LangChain` `RAG` `NLP` `Machine Learning`
+> `Python` `AI` `LangChain` `RAG` `NLP` `Machine Learning`
 
 ---
 
@@ -127,7 +126,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**ML / AI**
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -146,14 +145,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         TROPHIES                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=glitchxstar&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies" />
-</p>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                        -->
