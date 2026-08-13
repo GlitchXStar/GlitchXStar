@@ -55,8 +55,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlitchXStar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="Gaurav's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=GlitchXStar&theme=midnight-purple&hide_border=true" width="49%" alt="Gaurav's Streak" />
+  <img
+    src="https://github-readme-stats-np4h4qx4e-hackinggauravtiple-6080s-projects.vercel.app/api?username=GlitchXStar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    width="49%"
+    alt="Gaurav's GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=GlitchXStar&theme=midnight-purple&hide_border=true"
+    width="49%"
+    alt="Gaurav's Streak"
+  />
 </p>
 
 ---
