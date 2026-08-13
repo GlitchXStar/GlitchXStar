@@ -56,7 +56,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-np4h4qx4e-hackinggauravtiple-6080s-projects.vercel.app/api?username=GlitchXStar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats-bay-theta-18.vercel.app/api?username=GlitchXStar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
     width="49%"
     alt="Gaurav's GitHub Stats"
   />
