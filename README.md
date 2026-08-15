@@ -42,7 +42,7 @@
 
 - 🎓 **CSE undergrad @ VIT Pune** (Batch of 2028) — second year, deep in the grind
 - 🌱 Learning **Machine Learning, NLP, and how to not break prod**
-- 🏆 Hackathon builder — **5+ National Hackathon Finalist** , shipped a production HRMS at **Odoo × VIT Pune 2026**
+- 🏆 Hackathon builder — **6+ National Hackathon Finalist** , shipped a production HRMS at **Odoo × VIT Pune 2026**
 - 💬 Ask me about **full-stack dev, RAG, Langchain , or why my code only runs locally**
 - ⚡ Fun fact: **Flowers 🌸** (don't ask, close ones alr know ツ)
 
